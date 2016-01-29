@@ -1,0 +1,10 @@
+c:\users\danne\documents\visual studio 2015\Projects\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.exe.config
+C:\Users\Danne\documents\visual studio 2015\Projects\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.exe
+C:\Users\Danne\documents\visual studio 2015\Projects\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.pdb
+C:\Users\Danne\documents\visual studio 2015\Projects\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.dll
+C:\Users\Danne\documents\visual studio 2015\Projects\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danne\documents\visual studio 2015\Projects\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.xml
+C:\Users\Danne\documents\visual studio 2015\Projects\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danne\documents\visual studio 2015\Projects\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.csprojResolveAssemblyReference.cache
+C:\Users\Danne\documents\visual studio 2015\Projects\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.exe
+C:\Users\Danne\documents\visual studio 2015\Projects\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.pdb
